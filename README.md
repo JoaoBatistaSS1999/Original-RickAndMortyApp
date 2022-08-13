@@ -1,8 +1,4 @@
-
-
-
 <h1 class="title" >This is a remake of an old project</h1>
-
 
 <p>
   The reason for this remake is that the website was too simple to even deserve
@@ -14,8 +10,8 @@
 
 <h2>The old version:</h2>
 <section >
-  <img src="./src/assets/OldAssets/OldRMapi.png" alt="old-version-website" height="300" width="650"/>
-  <img src="./src/assets/OldAssets/oldrmapi2.png" alt="old-version-website"  height="300" width="300"/>
+  <img src="./assets/OldAssets/OldRMapi.png" alt="old-version-website" height="300" width="650"/>
+  <img src="./assets/OldAssets/oldrmapi2.png" alt="old-version-website"  height="300" width="300"/>
   <p>*Literally just a card with a button to generate a random character (disgusting)</p>
 </section>
 
