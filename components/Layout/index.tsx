@@ -1,6 +1,7 @@
 import { ReactNode } from "react";
-import styles from "../../styles/layoutStyles.module.css";
+import styles from "./styles.module.css";
 import Header from "../Header";
+import FilterTab from "../FilterTab";
 
 interface Props {
   children: ReactNode;
@@ -9,9 +10,9 @@ interface Props {
 const Layout: React.FC<Props> = ({ children }) => {
   return (
     <div className={styles.container}>
-      <h2>Im allways on</h2>
       <Header />
-      <main className={styles.main}>{children}</main>
+      <FilterTab />
+      <main>{children}</main>
     </div>
   );
 };
