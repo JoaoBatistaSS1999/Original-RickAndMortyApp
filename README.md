@@ -21,3 +21,8 @@
 <section >
   <p>in progress...</p>
 </section>
+
+## Things I learned:
+
+**Typescript blind spot and Zod**
+**How to do Pagination**
